@@ -1,0 +1,21 @@
+﻿@page "/details"
+@using Models
+
+@if(Model==null)
+{
+    <div>Brak danych </div>
+}
+else
+{
+    <p class="fs-3 fw-bold">@Model.VesselName</p>
+    <div><span class="fs-5">Typ:</span> <span>@Model.VesselType</span> <span class="fs-5">Bandera:</span> <span class="fs-5 fw-bold">@Model.VesselFlag</span></div>
+    <div><span class="fs-5">Poprzedni port:</span> <span class="fs-5 fw-bold">@Model.LastPort,</span> <span class="fs-5"> Przewidywany czas przybycia:</span> <span class="fs-5 fw-bold">@Model.ETA</span></div>
+    <div><span class="fs-5">Następny port:</span> <span class="fs-5 fw-bold">@Model.NextPort, </span> <span class="fs-5">Przewidywany czas wypłynięcia:</span> <span class="fs-5 fw-bold">@Model.ETD</span></div>
+    <hr />
+}
+
+@code {
+    [Parameter]
+    public ShipData? Model { get; set; }
+
+}

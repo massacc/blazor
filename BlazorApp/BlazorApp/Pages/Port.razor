@@ -1,0 +1,53 @@
+﻿@page "/port"
+@inject HttpClient Http
+@using Models
+@using System.Net.Http
+@using System.Xml.Serialization
+@using System.IO
+@using System.Collections.Generic
+
+
+@if (port == null)
+{
+    <p><em>Brak danych...</em></p>
+    <div>
+       
+    </div>
+}
+else
+{   
+    <h3>Statki wychodzące z portu Gdańsk Nowy Port</h3>
+
+    <p class="fs-5">Data aktualizacji: <span class="fs-5 fw-bold">@port.Time</span></p>
+    
+    @foreach(ShipData ship in port.Ships)
+    {   
+        try
+        {
+            <Details Model = "@ship"></Details>
+
+        }
+        catch
+        {
+            
+        }
+    }
+}
+
+@code {
+    PortData? port;
+
+    protected override async Task OnInitializedAsync()
+    {
+
+
+        Stream response = await Http.GetStreamAsync("sample-data/ships.xml");
+        StreamReader reader = new StreamReader(response);
+        @*var responseString = response.Content.ReadAsStringAsync().Result; 
+            StreamReader reader = new StreamReader(responseString);*@
+        XmlSerializer serializer = new XmlSerializer(typeof(PortData));
+
+        port = (PortData)serializer.Deserialize(reader);
+
+    }
+}

@@ -1,0 +1,1255 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<shipInPort PortOfCall="PLNOW" Time="2024-04-21 21:11:17" SerialNumber="638493306778817606">
+  <Visit>
+    <CallId>7209155</CallId>
+    <PortOfCall>PLNOW</PortOfCall>
+    <AgentArrival>
+    </AgentArrival>
+    <AgentDeparture>
+    </AgentDeparture>
+    <ETA>2022-05-21 07:30:00</ETA>
+    <ATA>2022-05-21 08:20:00</ATA>
+    <ETD>2025-05-09 07:30:00</ETD>
+    <ATD>
+    </ATD>
+    <LastPort>Gdynia</LastPort>
+    <NextPort>
+    </NextPort>
+    <VisitStatusID>2</VisitStatusID>
+    <VisitStatus>Active</VisitStatus>
+    <imo>
+    </imo>
+    <VesselName>POLA</VesselName>
+    <VesselType>Bunkering Tanker</VesselType>
+    <VesselFlag>Poland</VesselFlag>
+    <VesselStatusID>3</VesselStatusID>
+    <VesselStatus>In berth</VesselStatus>
+    <Quay>Administracyjne</Quay>
+    <AnchorageArea>
+    </AnchorageArea>
+  </Visit>
+  <Visit>
+    <CallId>7261379</CallId>
+    <PortOfCall>PLNOW</PortOfCall>
+    <AgentArrival>Przedsiebiorstwo Robot Czerpalnych i Podwodnych sp. z o.o.</AgentArrival>
+    <AgentDeparture>Przedsiebiorstwo Robot Czerpalnych i Podwodnych sp. z o.o.</AgentDeparture>
+    <ETA>2023-09-26 15:00:00</ETA>
+    <ATA>2023-09-30 09:15:00</ATA>
+    <ETD>2024-08-30 15:00:00</ETD>
+    <ATD>
+    </ATD>
+    <LastPort>Gda sk Nowy Port</LastPort>
+    <NextPort>
+    </NextPort>
+    <VisitStatusID>2</VisitStatusID>
+    <VisitStatus>Active</VisitStatus>
+    <imo>8937584</imo>
+    <VesselName>SM-PRC-110</VesselName>
+    <VesselType>Motor Hopper</VesselType>
+    <VesselFlag>Poland</VesselFlag>
+    <VesselStatusID>3</VesselStatusID>
+    <VesselStatus>In berth</VesselStatus>
+    <Quay>Krakowskie</Quay>
+    <AnchorageArea>
+    </AnchorageArea>
+  </Visit>
+  <Visit>
+    <CallId>7277897</CallId>
+    <PortOfCall>PLNOW</PortOfCall>
+    <AgentArrival>WH Shipping sp. z o.o.</AgentArrival>
+    <AgentDeparture>WH Shipping sp. z o.o.</AgentDeparture>
+    <ETA>2024-03-29 14:30:00</ETA>
+    <ATA>2024-04-02 09:25:00</ATA>
+    <ETD>2024-05-24 20:00:00</ETD>
+    <ATD>
+    </ATD>
+    <LastPort>Amsterdam</LastPort>
+    <NextPort>
+    </NextPort>
+    <VisitStatusID>2</VisitStatusID>
+    <VisitStatus>Active</VisitStatus>
+    <imo>9137038</imo>
+    <VesselName>LADY IRINA</VesselName>
+    <VesselType>General Cargo Ship</VesselType>
+    <VesselFlag>Netherlands</VesselFlag>
+    <VesselStatusID>3</VesselStatusID>
+    <VesselStatus>In berth</VesselStatus>
+    <Quay>Stocznia Gda ska</Quay>
+    <AnchorageArea>
+    </AnchorageArea>
+  </Visit>
+  <Visit>
+    <CallId>7279197</CallId>
+    <PortOfCall>PLNOW</PortOfCall>
+    <AgentArrival>Wilhelmsen Port Services sp. z o.o. Oddzia  Gda sk</AgentArrival>
+    <AgentDeparture>Wilhelmsen Port Services sp. z o.o. Oddzia  Gda sk</AgentDeparture>
+    <ETA>2024-04-11 08:30:00</ETA>
+    <ATA>2024-04-11 13:35:00</ATA>
+    <ETD>2024-05-15 10:00:00</ETD>
+    <ATD>
+    </ATD>
+    <LastPort>Goteborg</LastPort>
+    <NextPort>
+    </NextPort>
+    <VisitStatusID>2</VisitStatusID>
+    <VisitStatus>Active</VisitStatus>
+    <imo>9401556</imo>
+    <VesselName>STAV VIKING</VesselName>
+    <VesselType>Chemical/Oil Products Tanker</VesselType>
+    <VesselFlag>Norway</VesselFlag>
+    <VesselStatusID>3</VesselStatusID>
+    <VesselStatus>In berth</VesselStatus>
+    <Quay>Stocznia Remontowa - GSR</Quay>
+    <AnchorageArea>
+    </AnchorageArea>
+  </Visit>
+  <Visit>
+    <CallId>7279103</CallId>
+    <PortOfCall>PLNOW</PortOfCall>
+    <AgentArrival>MAR-SERVICE Marcin Biedrzycki</AgentArrival>
+    <AgentDeparture>MAR-SERVICE Marcin Biedrzycki</AgentDeparture>
+    <ETA>2024-04-12 08:15:00</ETA>
+    <ATA>2024-04-12 11:25:00</ATA>
+    <ETD>2024-05-07 12:00:00</ETD>
+    <ATD>
+    </ATD>
+    <LastPort>Brofjorden</LastPort>
+    <NextPort>
+    </NextPort>
+    <VisitStatusID>2</VisitStatusID>
+    <VisitStatus>Active</VisitStatus>
+    <imo>9837169</imo>
+    <VesselName>AURORA SPIRIT</VesselName>
+    <VesselType>Crude Oil Tanker</VesselType>
+    <VesselFlag>Norway</VesselFlag>
+    <VesselStatusID>3</VesselStatusID>
+    <VesselStatus>In berth</VesselStatus>
+    <Quay>Stocznia Remontowa - GSR</Quay>
+    <AnchorageArea>
+    </AnchorageArea>
+  </Visit>
+  <Visit>
+    <CallId>7280215</CallId>
+    <PortOfCall>PLNOW</PortOfCall>
+    <AgentArrival>
+    </AgentArrival>
+    <AgentDeparture>
+    </AgentDeparture>
+    <ETA>2024-04-20 17:30:00</ETA>
+    <ATA>2024-04-20 19:30:00</ATA>
+    <ETD>2024-05-04 12:00:00</ETD>
+    <ATD>
+    </ATD>
+    <LastPort>Tornea (Tornio)</LastPort>
+    <NextPort>unknown</NextPort>
+    <VisitStatusID>2</VisitStatusID>
+    <VisitStatus>Active</VisitStatus>
+    <imo>9508794</imo>
+    <VesselName>AMELAND</VesselName>
+    <VesselType>General Cargo Ship</VesselType>
+    <VesselFlag>Netherlands</VesselFlag>
+    <VesselStatusID>3</VesselStatusID>
+    <VesselStatus>In berth</VesselStatus>
+    <Quay>Stocznia Remontowa - GSR</Quay>
+    <AnchorageArea>
+    </AnchorageArea>
+  </Visit>
+  <Visit>
+    <CallId>7279867</CallId>
+    <PortOfCall>PLNOW</PortOfCall>
+    <AgentArrival>Vetro Port and Shipping Services</AgentArrival>
+    <AgentDeparture>Vetro Port and Shipping Services</AgentDeparture>
+    <ETA>2024-04-17 18:30:00</ETA>
+    <ATA>2024-04-17 23:15:00</ATA>
+    <ETD>2024-04-30 18:00:00</ETD>
+    <ATD>
+    </ATD>
+    <LastPort>Aveiro</LastPort>
+    <NextPort>
+    </NextPort>
+    <VisitStatusID>2</VisitStatusID>
+    <VisitStatus>Active</VisitStatus>
+    <imo>9493212</imo>
+    <VesselName>GOLDEN ARSENAL</VesselName>
+    <VesselType>Bulk Carrier</VesselType>
+    <VesselFlag>St Vincent &amp; The Grenadines</VesselFlag>
+    <VesselStatusID>3</VesselStatusID>
+    <VesselStatus>In berth</VesselStatus>
+    <Quay>Wi lane</Quay>
+    <AnchorageArea>
+    </AnchorageArea>
+  </Visit>
+  <Visit>
+    <CallId>7278557</CallId>
+    <PortOfCall>PLNOW</PortOfCall>
+    <AgentArrival>Mar-Yard Ltd Sp. z o.o.</AgentArrival>
+    <AgentDeparture>
+    </AgentDeparture>
+    <ETA>2024-04-04 07:00:00</ETA>
+    <ATA>2024-04-04 09:40:00</ATA>
+    <ETD>2024-04-30 12:00:00</ETD>
+    <ATD>
+    </ATD>
+    <LastPort>Marseille</LastPort>
+    <NextPort>unknown</NextPort>
+    <VisitStatusID>2</VisitStatusID>
+    <VisitStatus>Active</VisitStatus>
+    <imo>9129598</imo>
+    <VesselName>ARK FUTURA</VesselName>
+    <VesselType>Ro-Ro Cargo Ship</VesselType>
+    <VesselFlag>Denmark (Dis)</VesselFlag>
+    <VesselStatusID>3</VesselStatusID>
+    <VesselStatus>In berth</VesselStatus>
+    <Quay>Stocznia Remontowa - GSR</Quay>
+    <AnchorageArea>
+    </AnchorageArea>
+  </Visit>
+  <Visit>
+    <CallId>7279167</CallId>
+    <PortOfCall>PLNOW</PortOfCall>
+    <AgentArrival>SIGMA Shipping sp z o.o.</AgentArrival>
+    <AgentDeparture>SIGMA Shipping sp z o.o.</AgentDeparture>
+    <ETA>2024-04-10 07:00:00</ETA>
+    <ATA>2024-04-10 16:15:00</ATA>
+    <ETD>2024-04-30 10:00:00</ETD>
+    <ATD>
+    </ATD>
+    <LastPort>Bjorneborg (Pori)</LastPort>
+    <NextPort>
+    </NextPort>
+    <VisitStatusID>2</VisitStatusID>
+    <VisitStatus>Active</VisitStatus>
+    <imo>9673850</imo>
+    <VesselName>NUNAVIK</VesselName>
+    <VesselType>Bulk Carrier</VesselType>
+    <VesselFlag>Marshall Islands</VesselFlag>
+    <VesselStatusID>3</VesselStatusID>
+    <VesselStatus>In berth</VesselStatus>
+    <Quay>Stocznia Remontowa - GSR</Quay>
+    <AnchorageArea>
+    </AnchorageArea>
+  </Visit>
+  <Visit>
+    <CallId>7280023</CallId>
+    <PortOfCall>PLNOW</PortOfCall>
+    <AgentArrival>Przedsiebiorstwo Robot Czerpalnych i Podwodnych sp. z o.o.</AgentArrival>
+    <AgentDeparture>Przedsiebiorstwo Robot Czerpalnych i Podwodnych sp. z o.o.</AgentDeparture>
+    <ETA>2024-04-19 10:00:00</ETA>
+    <ATA>2024-04-19 11:00:00</ATA>
+    <ETD>2024-04-30 07:00:00</ETD>
+    <ATD>
+    </ATD>
+    <LastPort>Szczecin</LastPort>
+    <NextPort>
+    </NextPort>
+    <VisitStatusID>2</VisitStatusID>
+    <VisitStatus>Active</VisitStatus>
+    <imo>8937596</imo>
+    <VesselName>SM-PRC-112</VesselName>
+    <VesselType>Motor Hopper</VesselType>
+    <VesselFlag>Poland</VesselFlag>
+    <VesselStatusID>3</VesselStatusID>
+    <VesselStatus>In berth</VesselStatus>
+    <Quay>Krakowskie</Quay>
+    <AnchorageArea>
+    </AnchorageArea>
+  </Visit>
+  <Visit>
+    <CallId>7279127</CallId>
+    <PortOfCall>PLNOW</PortOfCall>
+    <AgentArrival>MAR-SERVICE Marcin Biedrzycki</AgentArrival>
+    <AgentDeparture>MAR-SERVICE Marcin Biedrzycki</AgentDeparture>
+    <ETA>2024-04-10 06:00:00</ETA>
+    <ATA>2024-04-10 08:15:00</ATA>
+    <ETD>2024-04-28 12:00:00</ETD>
+    <ATD>
+    </ATD>
+    <LastPort>Goteborg</LastPort>
+    <NextPort>
+    </NextPort>
+    <VisitStatusID>2</VisitStatusID>
+    <VisitStatus>Active</VisitStatus>
+    <imo>9125944</imo>
+    <VesselName>STENA JUTLANDICA</VesselName>
+    <VesselType>Passenger/Ro-Ro Cargo Ship</VesselType>
+    <VesselFlag>Sweden</VesselFlag>
+    <VesselStatusID>3</VesselStatusID>
+    <VesselStatus>In berth</VesselStatus>
+    <Quay>Stocznia Remontowa - GSR</Quay>
+    <AnchorageArea>
+    </AnchorageArea>
+  </Visit>
+  <Visit>
+    <CallId>7280029</CallId>
+    <PortOfCall>PLNOW</PortOfCall>
+    <AgentArrival>SIGMA Shipping sp z o.o.</AgentArrival>
+    <AgentDeparture>SIGMA Shipping sp z o.o.</AgentDeparture>
+    <ETA>2024-04-19 14:30:00</ETA>
+    <ATA>2024-04-21 19:15:00</ATA>
+    <ETD>2024-04-25 23:00:00</ETD>
+    <ATD>
+    </ATD>
+    <LastPort>Gulluk</LastPort>
+    <NextPort>
+    </NextPort>
+    <VisitStatusID>2</VisitStatusID>
+    <VisitStatus>Active</VisitStatus>
+    <imo>9450703</imo>
+    <VesselName>DENIZ-M</VesselName>
+    <VesselType>Vessel (function unknown)</VesselType>
+    <VesselFlag>Panama</VesselFlag>
+    <VesselStatusID>3</VesselStatusID>
+    <VesselStatus>In berth</VesselStatus>
+    <Quay>Rudowe</Quay>
+    <AnchorageArea>
+    </AnchorageArea>
+  </Visit>
+  <Visit>
+    <CallId>7280357</CallId>
+    <PortOfCall>PLNOW</PortOfCall>
+    <AgentArrival>BALT-T Agency Sp. z o.o.</AgentArrival>
+    <AgentDeparture>BALT-T Agency Sp. z o.o.</AgentDeparture>
+    <ETA>2024-04-21 17:45:00</ETA>
+    <ATA>2024-04-21 18:10:00</ATA>
+    <ETD>2024-04-24 15:00:00</ETD>
+    <ATD>
+    </ATD>
+    <LastPort>Las Palmas de Gran Canaria</LastPort>
+    <NextPort>
+    </NextPort>
+    <VisitStatusID>2</VisitStatusID>
+    <VisitStatus>Active</VisitStatus>
+    <imo>9128336</imo>
+    <VesselName>TARZAN</VesselName>
+    <VesselType>General Cargo Ship</VesselType>
+    <VesselFlag>Poland</VesselFlag>
+    <VesselStatusID>3</VesselStatusID>
+    <VesselStatus>In berth</VesselStatus>
+    <Quay>Wi lane</Quay>
+    <AnchorageArea>
+    </AnchorageArea>
+  </Visit>
+  <Visit>
+    <CallId>7279609</CallId>
+    <PortOfCall>PLNOW</PortOfCall>
+    <AgentArrival>Poseidon Frachtcontor Junge Sp. z o.o.</AgentArrival>
+    <AgentDeparture>Morska Agencja Gdynia Sp. z o.o.</AgentDeparture>
+    <ETA>2024-04-15 05:00:00</ETA>
+    <ATA>2024-04-15 08:10:00</ATA>
+    <ETD>2024-04-23 23:00:00</ETD>
+    <ATD>
+    </ATD>
+    <LastPort>Gijon</LastPort>
+    <NextPort>unknown</NextPort>
+    <VisitStatusID>2</VisitStatusID>
+    <VisitStatus>Active</VisitStatus>
+    <imo>9183790</imo>
+    <VesselName>LAKEWAY EXPRESS</VesselName>
+    <VesselType>Ro-Ro Cargo Ship</VesselType>
+    <VesselFlag>Sweden</VesselFlag>
+    <VesselStatusID>3</VesselStatusID>
+    <VesselStatus>In berth</VesselStatus>
+    <Quay>Stocznia Remontowa - GSR</Quay>
+    <AnchorageArea>
+    </AnchorageArea>
+  </Visit>
+  <Visit>
+    <CallId>7280319</CallId>
+    <PortOfCall>PLNOW</PortOfCall>
+    <AgentArrival>SIGMA Shipping sp z o.o.</AgentArrival>
+    <AgentDeparture>SIGMA Shipping sp z o.o.</AgentDeparture>
+    <ETA>2024-04-21 11:00:00</ETA>
+    <ATA>2024-04-21 11:45:00</ATA>
+    <ETD>2024-04-23 10:00:00</ETD>
+    <ATD>
+    </ATD>
+    <LastPort>Gdynia</LastPort>
+    <NextPort>
+    </NextPort>
+    <VisitStatusID>2</VisitStatusID>
+    <VisitStatus>Active</VisitStatus>
+    <imo>9192612</imo>
+    <VesselName>WILSON CADIZ</VesselName>
+    <VesselType>Aggregates Carrier</VesselType>
+    <VesselFlag>Barbados</VesselFlag>
+    <VesselStatusID>3</VesselStatusID>
+    <VesselStatus>In berth</VesselStatus>
+    <Quay>Przemys owe</Quay>
+    <AnchorageArea>
+    </AnchorageArea>
+  </Visit>
+  <Visit>
+    <CallId>7279699</CallId>
+    <PortOfCall>PLNOW</PortOfCall>
+    <AgentArrival>Morska Agencja Gdynia Sp. z o.o.</AgentArrival>
+    <AgentDeparture>Morska Agencja Gdynia Sp. z o.o.</AgentDeparture>
+    <ETA>2024-04-16 12:30:00</ETA>
+    <ATA>2024-04-16 12:40:00</ATA>
+    <ETD>2024-04-23 10:00:00</ETD>
+    <ATD>
+    </ATD>
+    <LastPort>Antwerpen</LastPort>
+    <NextPort>unknown</NextPort>
+    <VisitStatusID>2</VisitStatusID>
+    <VisitStatus>Active</VisitStatus>
+    <imo>9397200</imo>
+    <VesselName>SUPRA</VesselName>
+    <VesselType>Bulk Carrier</VesselType>
+    <VesselFlag>Liberia</VesselFlag>
+    <VesselStatusID>3</VesselStatusID>
+    <VesselStatus>In berth</VesselStatus>
+    <Quay>Oliwskie</Quay>
+    <AnchorageArea>
+    </AnchorageArea>
+  </Visit>
+  <Visit>
+    <CallId>7279849</CallId>
+    <PortOfCall>PLNOW</PortOfCall>
+    <AgentArrival>Morska Agencja Gdynia Sp. z o.o.</AgentArrival>
+    <AgentDeparture>Morska Agencja Gdynia Sp. z o.o.</AgentDeparture>
+    <ETA>2024-04-21 10:45:00</ETA>
+    <ATA>2024-04-20 03:00:00</ATA>
+    <ETD>2024-04-22 22:00:00</ETD>
+    <ATD>
+    </ATD>
+    <LastPort>Paldiski Lounasadam</LastPort>
+    <NextPort>
+    </NextPort>
+    <VisitStatusID>2</VisitStatusID>
+    <VisitStatus>Active</VisitStatus>
+    <imo>9320518</imo>
+    <VesselName>FWN SPLENDIDE</VesselName>
+    <VesselType>General Cargo Ship</VesselType>
+    <VesselFlag>Netherlands</VesselFlag>
+    <VesselStatusID>3</VesselStatusID>
+    <VesselStatus>In berth</VesselStatus>
+    <Quay>Kaszubskie</Quay>
+    <AnchorageArea>
+    </AnchorageArea>
+  </Visit>
+  <Visit>
+    <CallId>7280303</CallId>
+    <PortOfCall>PLNOW</PortOfCall>
+    <AgentArrival>
+    </AgentArrival>
+    <AgentDeparture>
+    </AgentDeparture>
+    <ETA>2024-04-21 01:20:00</ETA>
+    <ATA>2024-04-21 02:15:00</ATA>
+    <ETD>2024-04-22 20:00:00</ETD>
+    <ATD>
+    </ATD>
+    <LastPort>Szczecin</LastPort>
+    <NextPort>
+    </NextPort>
+    <VisitStatusID>2</VisitStatusID>
+    <VisitStatus>Active</VisitStatus>
+    <imo>9131199</imo>
+    <VesselName>ANGON</VesselName>
+    <VesselType>Oil Products Tanker</VesselType>
+    <VesselFlag>Poland</VesselFlag>
+    <VesselStatusID>3</VesselStatusID>
+    <VesselStatus>In berth</VesselStatus>
+    <Quay>Kotwicowisko nr 3</Quay>
+    <AnchorageArea>
+    </AnchorageArea>
+  </Visit>
+  <Visit>
+    <CallId>7280241</CallId>
+    <PortOfCall>PLNOW</PortOfCall>
+    <AgentArrival>Polska  egluga Ba tycka SA Biuro Obs ugi Armatorskiej Gda sk</AgentArrival>
+    <AgentDeparture>Polska  egluga Ba tycka SA Biuro Obs ugi Armatorskiej Gda sk</AgentDeparture>
+    <ETA>2024-04-21 10:50:00</ETA>
+    <ATA>2024-04-21 12:15:00</ATA>
+    <ETD>2024-04-22 18:00:00</ETD>
+    <ATD>
+    </ATD>
+    <LastPort>Nynashamn</LastPort>
+    <NextPort>Nynashamn</NextPort>
+    <VisitStatusID>2</VisitStatusID>
+    <VisitStatus>Active</VisitStatus>
+    <imo>9462067</imo>
+    <VesselName>NOVA STAR</VesselName>
+    <VesselType>Passenger/Ro-Ro Cargo Ship</VesselType>
+    <VesselFlag>Bahamas</VesselFlag>
+    <VesselStatusID>3</VesselStatusID>
+    <VesselStatus>In berth</VesselStatus>
+    <Quay>Obro ców Westerplatte</Quay>
+    <AnchorageArea>
+    </AnchorageArea>
+  </Visit>
+  <Visit>
+    <CallId>7279391</CallId>
+    <PortOfCall>PLNOW</PortOfCall>
+    <AgentArrival>Schultz Shipping Sp. z o.o.</AgentArrival>
+    <AgentDeparture>Schultz Shipping Sp. z o.o.</AgentDeparture>
+    <ETA>2024-04-20 23:35:00</ETA>
+    <ATA>2024-04-21 01:10:00</ATA>
+    <ETD>2024-04-22 16:00:00</ETD>
+    <ATD>
+    </ATD>
+    <LastPort>Lubeck</LastPort>
+    <NextPort>Leixoes</NextPort>
+    <VisitStatusID>2</VisitStatusID>
+    <VisitStatus>Active</VisitStatus>
+    <imo>9277278</imo>
+    <VesselName>NINA</VesselName>
+    <VesselType>General Cargo Ship</VesselType>
+    <VesselFlag>Cyprus</VesselFlag>
+    <VesselStatusID>3</VesselStatusID>
+    <VesselStatus>In berth</VesselStatus>
+    <Quay>Przemys owe</Quay>
+    <AnchorageArea>
+    </AnchorageArea>
+  </Visit>
+  <Visit>
+    <CallId>7280079</CallId>
+    <PortOfCall>PLNOW</PortOfCall>
+    <AgentArrival>SIGMA Shipping sp z o.o.</AgentArrival>
+    <AgentDeparture>SIGMA Shipping sp z o.o.</AgentDeparture>
+    <ETA>2024-04-21 14:20:00</ETA>
+    <ATA>2024-04-21 15:00:00</ATA>
+    <ETD>2024-04-22 09:00:00</ETD>
+    <ATD>
+    </ATD>
+    <LastPort>Skulte</LastPort>
+    <NextPort>Kiel</NextPort>
+    <VisitStatusID>2</VisitStatusID>
+    <VisitStatus>Active</VisitStatus>
+    <imo>9391658</imo>
+    <VesselName>DEO VOLENTE</VesselName>
+    <VesselType>General Cargo Ship</VesselType>
+    <VesselFlag>Netherlands</VesselFlag>
+    <VesselStatusID>3</VesselStatusID>
+    <VesselStatus>In berth</VesselStatus>
+    <Quay>Oliwskie</Quay>
+    <AnchorageArea>
+    </AnchorageArea>
+  </Visit>
+  <Visit>
+    <CallId>7279797</CallId>
+    <PortOfCall>PLNOW</PortOfCall>
+    <AgentArrival>Polsteam Shipping Agency Sp. z o.o. Oddzia  Gdynia</AgentArrival>
+    <AgentDeparture>Polsteam Shipping Agency Sp. z o.o. Oddzia  Gdynia</AgentDeparture>
+    <ETA>2024-04-16 15:00:00</ETA>
+    <ATA>2024-04-16 16:10:00</ATA>
+    <ETD>2024-04-22 08:00:00</ETD>
+    <ATD>
+    </ATD>
+    <LastPort>Gda sk Nowy Port</LastPort>
+    <NextPort>Gda sk Nowy Port</NextPort>
+    <VisitStatusID>2</VisitStatusID>
+    <VisitStatus>Active</VisitStatus>
+    <imo>8304854</imo>
+    <VesselName>OCEANIA</VesselName>
+    <VesselType>Research Vessel</VesselType>
+    <VesselFlag>Poland</VesselFlag>
+    <VesselStatusID>3</VesselStatusID>
+    <VesselStatus>In berth</VesselStatus>
+    <Quay>Zbo owe</Quay>
+    <AnchorageArea>
+    </AnchorageArea>
+  </Visit>
+  <Visit>
+    <CallId>7280315</CallId>
+    <PortOfCall>PLNOW</PortOfCall>
+    <AgentArrival>Morska Agencja Gdynia Sp. z o.o.</AgentArrival>
+    <AgentDeparture>Morska Agencja Gdynia Sp. z o.o.</AgentDeparture>
+    <ETA>2024-04-21 13:00:00</ETA>
+    <ATA>2024-04-21 13:15:00</ATA>
+    <ETD>2024-04-22 06:00:00</ETD>
+    <ATD>
+    </ATD>
+    <LastPort>Vyborg</LastPort>
+    <NextPort>Vyborg</NextPort>
+    <VisitStatusID>2</VisitStatusID>
+    <VisitStatus>Active</VisitStatus>
+    <imo>9312676</imo>
+    <VesselName>CLARA</VesselName>
+    <VesselType>General Cargo Ship</VesselType>
+    <VesselFlag>Antigua &amp; Barbuda</VesselFlag>
+    <VesselStatusID>3</VesselStatusID>
+    <VesselStatus>In berth</VesselStatus>
+    <Quay>Wi lane</Quay>
+    <AnchorageArea>
+    </AnchorageArea>
+  </Visit>
+  <Visit>
+    <CallId>7279971</CallId>
+    <PortOfCall>PLNOW</PortOfCall>
+    <AgentArrival>SIGMA Shipping sp z o.o.</AgentArrival>
+    <AgentDeparture>SIGMA Shipping sp z o.o.</AgentDeparture>
+    <ETA>2024-04-20 06:00:00</ETA>
+    <ATA>2024-04-20 08:25:00</ATA>
+    <ETD>2024-04-21 23:30:00</ETD>
+    <ATD>
+    </ATD>
+    <LastPort>Klaipeda</LastPort>
+    <NextPort>Rotterdam</NextPort>
+    <VisitStatusID>2</VisitStatusID>
+    <VisitStatus>Active</VisitStatus>
+    <imo>9671486</imo>
+    <VesselName>EEMSLIFT HENDRIKA</VesselName>
+    <VesselType>General Cargo Ship</VesselType>
+    <VesselFlag>Netherlands</VesselFlag>
+    <VesselStatusID>3</VesselStatusID>
+    <VesselStatus>In berth</VesselStatus>
+    <Quay>Dworzec Drzewny</Quay>
+    <AnchorageArea>
+    </AnchorageArea>
+  </Visit>
+  <Visit>
+    <CallId>7279865</CallId>
+    <PortOfCall>PLNOW</PortOfCall>
+    <AgentArrival>IM Solutions Sp.z o.o.</AgentArrival>
+    <AgentDeparture>IM Solutions Sp.z o.o.</AgentDeparture>
+    <ETA>2024-04-21 09:00:00</ETA>
+    <ATA>2024-04-21 09:55:00</ATA>
+    <ETD>2024-04-21 22:15:00</ETD>
+    <ATD>
+    </ATD>
+    <LastPort>Wismar</LastPort>
+    <NextPort>Tilbury</NextPort>
+    <VisitStatusID>2</VisitStatusID>
+    <VisitStatus>Active</VisitStatus>
+    <imo>9316311</imo>
+    <VesselName>SEINE HIGHWAY</VesselName>
+    <VesselType>Vehicles Carrier</VesselType>
+    <VesselFlag>Bahamas</VesselFlag>
+    <VesselStatusID>3</VesselStatusID>
+    <VesselStatus>In berth</VesselStatus>
+    <Quay>WOC-II</Quay>
+    <AnchorageArea>
+    </AnchorageArea>
+  </Visit>
+  <Visit>
+    <CallId>7279845</CallId>
+    <PortOfCall>PLNOW</PortOfCall>
+    <AgentArrival>Schultz Shipping Sp. z o.o.</AgentArrival>
+    <AgentDeparture>Schultz Shipping Sp. z o.o.</AgentDeparture>
+    <ETA>2024-04-20 06:00:00</ETA>
+    <ATA>2024-04-20 12:05:00</ATA>
+    <ETD>2024-04-21 21:45:00</ETD>
+    <ATD>
+    </ATD>
+    <LastPort>Amsterdam</LastPort>
+    <NextPort>Klaipeda</NextPort>
+    <VisitStatusID>2</VisitStatusID>
+    <VisitStatus>Active</VisitStatus>
+    <imo>9171096</imo>
+    <VesselName>WILSON GAETA</VesselName>
+    <VesselType>General Cargo Ship</VesselType>
+    <VesselFlag>Barbados</VesselFlag>
+    <VesselStatusID>3</VesselStatusID>
+    <VesselStatus>In berth</VesselStatus>
+    <Quay>WOC-I</Quay>
+    <AnchorageArea>
+    </AnchorageArea>
+  </Visit>
+  <Visit>
+    <CallId>7280181</CallId>
+    <PortOfCall>PLNOW</PortOfCall>
+    <AgentArrival>Inter Balt Sp. z o.o.</AgentArrival>
+    <AgentDeparture>Inter Balt Sp. z o.o.</AgentDeparture>
+    <ETA>2024-04-20 07:00:00</ETA>
+    <ATA>2024-04-20 08:30:00</ATA>
+    <ETD>2024-04-21 21:00:00</ETD>
+    <ATD>
+    </ATD>
+    <LastPort>Mersrags</LastPort>
+    <NextPort>Szczecin</NextPort>
+    <VisitStatusID>2</VisitStatusID>
+    <VisitStatus>Active</VisitStatus>
+    <imo>8422034</imo>
+    <VesselName>MERITA</VesselName>
+    <VesselType>General Cargo Ship</VesselType>
+    <VesselFlag>Madeira</VesselFlag>
+    <VesselStatusID>3</VesselStatusID>
+    <VesselStatus>In berth</VesselStatus>
+    <Quay>Obro ców Poczty Polskiej</Quay>
+    <AnchorageArea>
+    </AnchorageArea>
+  </Visit>
+  <Visit>
+    <CallId>7280235</CallId>
+    <PortOfCall>PLNOW</PortOfCall>
+    <AgentArrival>Wilhelmsen Port Services sp. z o.o. Oddzia  Gda sk</AgentArrival>
+    <AgentDeparture>Wilhelmsen Port Services sp. z o.o. Oddzia  Gda sk</AgentDeparture>
+    <ETA>2024-04-20 19:00:00</ETA>
+    <ATA>2024-04-20 20:15:00</ATA>
+    <ETD>2024-04-21 16:00:00</ETD>
+    <ATD>2024-04-21 18:40:00</ATD>
+    <LastPort>Tallinn</LastPort>
+    <NextPort>Tyboron</NextPort>
+    <VisitStatusID>3</VisitStatusID>
+    <VisitStatus>Completed</VisitStatus>
+    <imo>9164108</imo>
+    <VesselName>STOLT AUK</VesselName>
+    <VesselType>Chemical/Oil Products Tanker</VesselType>
+    <VesselFlag>United Kingdom</VesselFlag>
+    <VesselStatusID>1</VesselStatusID>
+    <VesselStatus>Underway</VesselStatus>
+    <Quay>Chemików</Quay>
+    <AnchorageArea>
+    </AnchorageArea>
+  </Visit>
+  <Visit>
+    <CallId>7279411</CallId>
+    <PortOfCall>PLNOW</PortOfCall>
+    <AgentArrival>Polsteam Shipping Agency Sp. z o.o. Oddzia  Gdynia</AgentArrival>
+    <AgentDeparture>Polsteam Shipping Agency Sp. z o.o. Oddzia  Gdynia</AgentDeparture>
+    <ETA>2024-04-13 22:30:00</ETA>
+    <ATA>2024-04-13 21:30:00</ATA>
+    <ETD>2024-04-21 00:00:00</ETD>
+    <ATD>
+    </ATD>
+    <LastPort>Southampton</LastPort>
+    <NextPort>
+    </NextPort>
+    <VisitStatusID>2</VisitStatusID>
+    <VisitStatus>Active</VisitStatus>
+    <imo>9594236</imo>
+    <VesselName>KOSZALIN</VesselName>
+    <VesselType>Bulk Carrier</VesselType>
+    <VesselFlag>Bahamas</VesselFlag>
+    <VesselStatusID>3</VesselStatusID>
+    <VesselStatus>In berth</VesselStatus>
+    <Quay>Bytomskie</Quay>
+    <AnchorageArea>
+    </AnchorageArea>
+  </Visit>
+  <Visit>
+    <CallId>7276975</CallId>
+    <PortOfCall>PLNOW</PortOfCall>
+    <AgentArrival>MAR-SERVICE Marcin Biedrzycki</AgentArrival>
+    <AgentDeparture>MAR-SERVICE Marcin Biedrzycki</AgentDeparture>
+    <ETA>2024-03-30 05:00:00</ETA>
+    <ATA>2024-03-30 06:30:00</ATA>
+    <ETD>2024-04-19 12:00:00</ETD>
+    <ATD>
+    </ATD>
+    <LastPort>Port Everglades</LastPort>
+    <NextPort>
+    </NextPort>
+    <VisitStatusID>2</VisitStatusID>
+    <VisitStatus>Active</VisitStatus>
+    <imo>9457268</imo>
+    <VesselName>SEAFRONTIER</VesselName>
+    <VesselType>Oil Products Tanker</VesselType>
+    <VesselFlag>Hong kong- China</VesselFlag>
+    <VesselStatusID>3</VesselStatusID>
+    <VesselStatus>In berth</VesselStatus>
+    <Quay>Stocznia Remontowa - GSR</Quay>
+    <AnchorageArea>
+    </AnchorageArea>
+  </Visit>
+  <Visit>
+    <CallId>7276785</CallId>
+    <PortOfCall>PLNOW</PortOfCall>
+    <AgentArrival>Wilhelmsen Port Services sp. z o.o. Oddzia  Gda sk</AgentArrival>
+    <AgentDeparture>Wilhelmsen Port Services sp. z o.o. Oddzia  Gda sk</AgentDeparture>
+    <ETA>2024-03-19 16:30:00</ETA>
+    <ATA>2024-03-20 08:15:00</ATA>
+    <ETD>2024-04-19 08:00:00</ETD>
+    <ATD>
+    </ATD>
+    <LastPort>La Rochelle</LastPort>
+    <NextPort>
+    </NextPort>
+    <VisitStatusID>2</VisitStatusID>
+    <VisitStatus>Active</VisitStatus>
+    <imo>9432517</imo>
+    <VesselName>SIDER MONICA</VesselName>
+    <VesselType>General Cargo Ship</VesselType>
+    <VesselFlag>Madeira</VesselFlag>
+    <VesselStatusID>3</VesselStatusID>
+    <VesselStatus>In berth</VesselStatus>
+    <Quay>Stocznia Remontowa - GSR</Quay>
+    <AnchorageArea>
+    </AnchorageArea>
+  </Visit>
+  <Visit>
+    <CallId>7276157</CallId>
+    <PortOfCall>PLNOW</PortOfCall>
+    <AgentArrival>Mar-Yard Ltd Sp. z o.o.</AgentArrival>
+    <AgentDeparture>
+    </AgentDeparture>
+    <ETA>2024-03-11 12:00:00</ETA>
+    <ATA>2024-03-11 13:10:00</ATA>
+    <ETD>2024-04-11 08:00:00</ETD>
+    <ATD>
+    </ATD>
+    <LastPort>Rotterdam</LastPort>
+    <NextPort>unknown</NextPort>
+    <VisitStatusID>2</VisitStatusID>
+    <VisitStatus>Active</VisitStatus>
+    <imo>9116187</imo>
+    <VesselName>HOHEWIND</VesselName>
+    <VesselType>Container Ship</VesselType>
+    <VesselFlag>Antigua &amp; Barbuda</VesselFlag>
+    <VesselStatusID>3</VesselStatusID>
+    <VesselStatus>In berth</VesselStatus>
+    <Quay>Stocznia Remontowa - GSR</Quay>
+    <AnchorageArea>
+    </AnchorageArea>
+  </Visit>
+  <Visit>
+    <CallId>7278249</CallId>
+    <PortOfCall>PLNOW</PortOfCall>
+    <AgentArrival>Przedsiebiorstwo Robot Czerpalnych i Podwodnych sp. z o.o.</AgentArrival>
+    <AgentDeparture>Przedsiebiorstwo Robot Czerpalnych i Podwodnych sp. z o.o.</AgentDeparture>
+    <ETA>2024-03-30 06:00:00</ETA>
+    <ATA>2024-03-30 03:50:00</ATA>
+    <ETD>2024-04-10 06:00:00</ETD>
+    <ATD>
+    </ATD>
+    <LastPort>Gda sk Nowy Port</LastPort>
+    <NextPort>
+    </NextPort>
+    <VisitStatusID>2</VisitStatusID>
+    <VisitStatus>Active</VisitStatus>
+    <imo>8899108</imo>
+    <VesselName>SM-PRC 107</VesselName>
+    <VesselType>Motor Hopper</VesselType>
+    <VesselFlag>Poland</VesselFlag>
+    <VesselStatusID>3</VesselStatusID>
+    <VesselStatus>In berth</VesselStatus>
+    <Quay>Krakowskie</Quay>
+    <AnchorageArea>
+    </AnchorageArea>
+  </Visit>
+  <Visit>
+    <CallId>7261693</CallId>
+    <PortOfCall>PLNOW</PortOfCall>
+    <AgentArrival>WH Shipping sp. z o.o.</AgentArrival>
+    <AgentDeparture>WH Shipping sp. z o.o.</AgentDeparture>
+    <ETA>2023-10-01 08:15:00</ETA>
+    <ATA>2023-10-01 09:30:00</ATA>
+    <ETD>2024-04-08 18:00:00</ETD>
+    <ATD>
+    </ATD>
+    <LastPort>Sassnitz</LastPort>
+    <NextPort>
+    </NextPort>
+    <VisitStatusID>2</VisitStatusID>
+    <VisitStatus>Active</VisitStatus>
+    <imo>5255777</imo>
+    <VesselName>NORDSTJERNEN</VesselName>
+    <VesselType>Passenger Ship</VesselType>
+    <VesselFlag>Norway</VesselFlag>
+    <VesselStatusID>3</VesselStatusID>
+    <VesselStatus>In berth</VesselStatus>
+    <Quay>Stocznia Gda ska</Quay>
+    <AnchorageArea>
+    </AnchorageArea>
+  </Visit>
+  <Visit>
+    <CallId>7276827</CallId>
+    <PortOfCall>PLNOW</PortOfCall>
+    <AgentArrival>
+    </AgentArrival>
+    <AgentDeparture>
+    </AgentDeparture>
+    <ETA>2024-03-18 08:00:00</ETA>
+    <ATA>2024-03-18 23:30:00</ATA>
+    <ETD>2024-04-07 12:00:00</ETD>
+    <ATD>
+    </ATD>
+    <LastPort>Dunkerque</LastPort>
+    <NextPort>unknown</NextPort>
+    <VisitStatusID>2</VisitStatusID>
+    <VisitStatus>Active</VisitStatus>
+    <imo>9188427</imo>
+    <VesselName>OPTIMA SEAWAYS</VesselName>
+    <VesselType>Passenger/Ro-Ro Cargo Ship</VesselType>
+    <VesselFlag>Lithuania</VesselFlag>
+    <VesselStatusID>3</VesselStatusID>
+    <VesselStatus>In berth</VesselStatus>
+    <Quay>Stocznia Remontowa - GSR</Quay>
+    <AnchorageArea>
+    </AnchorageArea>
+  </Visit>
+  <Visit>
+    <CallId>7277371</CallId>
+    <PortOfCall>PLNOW</PortOfCall>
+    <AgentArrival>Morska Agencja Gdynia Sp. z o.o.</AgentArrival>
+    <AgentDeparture>Morska Agencja Gdynia Sp. z o.o.</AgentDeparture>
+    <ETA>2024-03-22 13:20:00</ETA>
+    <ATA>2024-03-23 08:30:00</ATA>
+    <ETD>2024-04-03 11:00:00</ETD>
+    <ATD>
+    </ATD>
+    <LastPort>Borga (Porvoo)</LastPort>
+    <NextPort>unknown</NextPort>
+    <VisitStatusID>2</VisitStatusID>
+    <VisitStatus>Active</VisitStatus>
+    <imo>9407988</imo>
+    <VesselName>STEN BERGEN</VesselName>
+    <VesselType>Chemical Tanker</VesselType>
+    <VesselFlag>Norway</VesselFlag>
+    <VesselStatusID>3</VesselStatusID>
+    <VesselStatus>In berth</VesselStatus>
+    <Quay>Stocznia Remontowa - GSR</Quay>
+    <AnchorageArea>
+    </AnchorageArea>
+  </Visit>
+  <Visit>
+    <CallId>7274607</CallId>
+    <PortOfCall>PLNOW</PortOfCall>
+    <AgentArrival>Poseidon Frachtcontor Junge Sp. z o.o.</AgentArrival>
+    <AgentDeparture>Poseidon Frachtcontor Junge Sp. z o.o.</AgentDeparture>
+    <ETA>2024-02-23 08:15:00</ETA>
+    <ATA>2024-02-23 13:35:00</ATA>
+    <ETD>2024-03-30 08:00:00</ETD>
+    <ATD>
+    </ATD>
+    <LastPort>IJmuiden/Velsen</LastPort>
+    <NextPort>
+    </NextPort>
+    <VisitStatusID>2</VisitStatusID>
+    <VisitStatus>Active</VisitStatus>
+    <imo>9594054</imo>
+    <VesselName>TRANS TIND</VesselName>
+    <VesselType>Chemical/Oil Products Tanker</VesselType>
+    <VesselFlag>Bahamas</VesselFlag>
+    <VesselStatusID>3</VesselStatusID>
+    <VesselStatus>In berth</VesselStatus>
+    <Quay>Stocznia Remontowa - GSR</Quay>
+    <AnchorageArea>
+    </AnchorageArea>
+  </Visit>
+  <Visit>
+    <CallId>7262209</CallId>
+    <PortOfCall>PLNOW</PortOfCall>
+    <AgentArrival>WH Shipping sp. z o.o.</AgentArrival>
+    <AgentDeparture>WH Shipping sp. z o.o.</AgentDeparture>
+    <ETA>2023-10-09 14:30:00</ETA>
+    <ATA>2023-10-09 16:25:00</ATA>
+    <ETD>2024-03-20 12:00:00</ETD>
+    <ATD>
+    </ATD>
+    <LastPort>Lisboa</LastPort>
+    <NextPort>
+    </NextPort>
+    <VisitStatusID>2</VisitStatusID>
+    <VisitStatus>Active</VisitStatus>
+    <imo>7392854</imo>
+    <VesselName>BALTO</VesselName>
+    <VesselType>Research Vessel</VesselType>
+    <VesselFlag>Cook Islands</VesselFlag>
+    <VesselStatusID>3</VesselStatusID>
+    <VesselStatus>In berth</VesselStatus>
+    <Quay>Stocznia Gda ska</Quay>
+    <AnchorageArea>
+    </AnchorageArea>
+  </Visit>
+  <Visit>
+    <CallId>7268101</CallId>
+    <PortOfCall>PLNOW</PortOfCall>
+    <AgentArrival>Starboard Shipping Andrzej Rogowski</AgentArrival>
+    <AgentDeparture>Starboard Shipping Andrzej Rogowski</AgentDeparture>
+    <ETA>2023-12-09 09:00:00</ETA>
+    <ATA>2023-12-09 15:30:00</ATA>
+    <ETD>2024-02-10 17:00:00</ETD>
+    <ATD>
+    </ATD>
+    <LastPort>Algeciras</LastPort>
+    <NextPort>
+    </NextPort>
+    <VisitStatusID>2</VisitStatusID>
+    <VisitStatus>Active</VisitStatus>
+    <imo>9165451</imo>
+    <VesselName>GUARDIANS</VesselName>
+    <VesselType>Chemical/Oil Products Tanker</VesselType>
+    <VesselFlag>Panama</VesselFlag>
+    <VesselStatusID>3</VesselStatusID>
+    <VesselStatus>In berth</VesselStatus>
+    <Quay>Stocznia Remontowa - GSR</Quay>
+    <AnchorageArea>
+    </AnchorageArea>
+  </Visit>
+  <Visit>
+    <CallId>7265683</CallId>
+    <PortOfCall>PLNOW</PortOfCall>
+    <AgentArrival>
+    </AgentArrival>
+    <AgentDeparture>Mar-Yard Ltd Sp. z o.o.</AgentDeparture>
+    <ETA>2023-11-11 08:10:00</ETA>
+    <ATA>2023-11-11 11:00:00</ATA>
+    <ETD>2024-02-02 12:00:00</ETD>
+    <ATD>
+    </ATD>
+    <LastPort>Karlshamn</LastPort>
+    <NextPort>unknown</NextPort>
+    <VisitStatusID>2</VisitStatusID>
+    <VisitStatus>Active</VisitStatus>
+    <imo>9019080</imo>
+    <VesselName>MARCO POLO</VesselName>
+    <VesselType>IWW Passenger/Ro-Ro Cargo</VesselType>
+    <VesselFlag>Cyprus</VesselFlag>
+    <VesselStatusID>3</VesselStatusID>
+    <VesselStatus>In berth</VesselStatus>
+    <Quay>Stocznia Remontowa - GSR</Quay>
+    <AnchorageArea>
+    </AnchorageArea>
+  </Visit>
+  <Visit>
+    <CallId>7255529</CallId>
+    <PortOfCall>PLNOW</PortOfCall>
+    <AgentArrival>Technical Ship Management sp. z o.o.</AgentArrival>
+    <AgentDeparture>Technical Ship Management sp. z o.o.</AgentDeparture>
+    <ETA>2023-08-01 07:50:00</ETA>
+    <ATA>2023-08-01 09:20:00</ATA>
+    <ETD>2023-12-29 14:00:00</ETD>
+    <ATD>
+    </ATD>
+    <LastPort>Rotterdam</LastPort>
+    <NextPort>
+    </NextPort>
+    <VisitStatusID>2</VisitStatusID>
+    <VisitStatus>Active</VisitStatus>
+    <imo>9963877</imo>
+    <VesselName>MARS</VesselName>
+    <VesselType>Tug</VesselType>
+    <VesselFlag>Poland</VesselFlag>
+    <VesselStatusID>3</VesselStatusID>
+    <VesselStatus>In berth</VesselStatus>
+    <Quay>Obro ców Westerplatte</Quay>
+    <AnchorageArea>
+    </AnchorageArea>
+  </Visit>
+  <Visit>
+    <CallId>7262235</CallId>
+    <PortOfCall>PLNOW</PortOfCall>
+    <AgentArrival>Technical Ship Management sp. z o.o.</AgentArrival>
+    <AgentDeparture>Technical Ship Management sp. z o.o.</AgentDeparture>
+    <ETA>2023-10-05 12:00:00</ETA>
+    <ATA>2023-10-05 12:30:00</ATA>
+    <ETD>2023-12-06 09:00:00</ETD>
+    <ATD>
+    </ATD>
+    <LastPort>Rotterdam</LastPort>
+    <NextPort>
+    </NextPort>
+    <VisitStatusID>2</VisitStatusID>
+    <VisitStatus>Active</VisitStatus>
+    <imo>9962354</imo>
+    <VesselName>PAX</VesselName>
+    <VesselType>Tug</VesselType>
+    <VesselFlag>Poland</VesselFlag>
+    <VesselStatusID>3</VesselStatusID>
+    <VesselStatus>In berth</VesselStatus>
+    <Quay>Obro ców Westerplatte</Quay>
+    <AnchorageArea>
+    </AnchorageArea>
+  </Visit>
+  <Visit>
+    <CallId>7234707</CallId>
+    <PortOfCall>PLNOW</PortOfCall>
+    <AgentArrival>
+    </AgentArrival>
+    <AgentDeparture>
+    </AgentDeparture>
+    <ETA>2023-01-09 10:00:00</ETA>
+    <ATA>2023-01-09 11:15:00</ATA>
+    <ETD>2023-09-30 10:00:00</ETD>
+    <ATD>
+    </ATD>
+    <LastPort>Swinoujscie</LastPort>
+    <NextPort>
+    </NextPort>
+    <VisitStatusID>2</VisitStatusID>
+    <VisitStatus>Active</VisitStatus>
+    <imo>
+    </imo>
+    <VesselName>4127A</VesselName>
+    <VesselType>Non Propelled Barge</VesselType>
+    <VesselFlag>UNKNOWN</VesselFlag>
+    <VesselStatusID>3</VesselStatusID>
+    <VesselStatus>In berth</VesselStatus>
+    <Quay>Tarcice</Quay>
+    <AnchorageArea>
+    </AnchorageArea>
+  </Visit>
+  <Visit>
+    <CallId>7256713</CallId>
+    <PortOfCall>PLNOW</PortOfCall>
+    <AgentArrival>Mar-Yard Ltd Sp. z o.o.</AgentArrival>
+    <AgentDeparture>Mar-Yard Ltd Sp. z o.o.</AgentDeparture>
+    <ETA>2023-08-13 16:00:00</ETA>
+    <ATA>2023-08-13 17:25:00</ATA>
+    <ETD>2023-09-04 16:00:00</ETD>
+    <ATD>
+    </ATD>
+    <LastPort>Rostock</LastPort>
+    <NextPort>
+    </NextPort>
+    <VisitStatusID>2</VisitStatusID>
+    <VisitStatus>Active</VisitStatus>
+    <imo>9502049</imo>
+    <VesselName>MIMAR SINAN</VesselName>
+    <VesselType>Dredger</VesselType>
+    <VesselFlag>Luxembourg</VesselFlag>
+    <VesselStatusID>3</VesselStatusID>
+    <VesselStatus>In berth</VesselStatus>
+    <Quay>Stocznia Remontowa - GSR</Quay>
+    <AnchorageArea>
+    </AnchorageArea>
+  </Visit>
+  <Visit>
+    <CallId>7255575</CallId>
+    <PortOfCall>PLNOW</PortOfCall>
+    <AgentArrival>Technical Ship Management sp. z o.o.</AgentArrival>
+    <AgentDeparture>Technical Ship Management sp. z o.o.</AgentDeparture>
+    <ETA>2023-08-01 07:50:00</ETA>
+    <ATA>2023-08-01 09:20:00</ATA>
+    <ETD>2023-08-31 14:00:00</ETD>
+    <ATD>
+    </ATD>
+    <LastPort>Rotterdam</LastPort>
+    <NextPort>
+    </NextPort>
+    <VisitStatusID>2</VisitStatusID>
+    <VisitStatus>Active</VisitStatus>
+    <imo>9906221</imo>
+    <VesselName>ARES</VesselName>
+    <VesselType>Tug</VesselType>
+    <VesselFlag>Poland</VesselFlag>
+    <VesselStatusID>3</VesselStatusID>
+    <VesselStatus>In berth</VesselStatus>
+    <Quay>Obro ców Westerplatte</Quay>
+    <AnchorageArea>
+    </AnchorageArea>
+  </Visit>
+  <Visit>
+    <CallId>7254161</CallId>
+    <PortOfCall>PLNOW</PortOfCall>
+    <AgentArrival>Mar-Yard Ltd Sp. z o.o.</AgentArrival>
+    <AgentDeparture>Mar-Yard Ltd Sp. z o.o.</AgentDeparture>
+    <ETA>2023-07-20 12:00:00</ETA>
+    <ATA>2023-07-20 15:00:00</ATA>
+    <ETD>2023-07-31 14:00:00</ETD>
+    <ATD>
+    </ATD>
+    <LastPort>Le Havre</LastPort>
+    <NextPort>
+    </NextPort>
+    <VisitStatusID>2</VisitStatusID>
+    <VisitStatus>Active</VisitStatus>
+    <imo>9226126</imo>
+    <VesselName>VAITERE 2</VesselName>
+    <VesselType>General Cargo Ship</VesselType>
+    <VesselFlag>St Vincent &amp; The Grenadines</VesselFlag>
+    <VesselStatusID>3</VesselStatusID>
+    <VesselStatus>In berth</VesselStatus>
+    <Quay>Stocznia Remontowa - GSR</Quay>
+    <AnchorageArea>
+    </AnchorageArea>
+  </Visit>
+  <Visit>
+    <CallId>675857</CallId>
+    <PortOfCall>PLNOW</PortOfCall>
+    <AgentArrival>Zegluga Gdanska sp. z o. o.</AgentArrival>
+    <AgentDeparture>
+    </AgentDeparture>
+    <ETA>2021-12-06 12:00:00</ETA>
+    <ATA>2021-12-10 08:55:00</ATA>
+    <ETD>2021-12-31 08:00:00</ETD>
+    <ATD>
+    </ATD>
+    <LastPort>Gdynia</LastPort>
+    <NextPort>
+    </NextPort>
+    <VisitStatusID>2</VisitStatusID>
+    <VisitStatus>Active</VisitStatus>
+    <imo>7911301</imo>
+    <VesselName>ONYX</VesselName>
+    <VesselType>Passenger (Cruise) Ship</VesselType>
+    <VesselFlag>Poland</VesselFlag>
+    <VesselStatusID>3</VesselStatusID>
+    <VesselStatus>In berth</VesselStatus>
+    <Quay>Baza  eglugi Gda skiej</Quay>
+    <AnchorageArea>
+    </AnchorageArea>
+  </Visit>
+  <Visit>
+    <CallId>625377</CallId>
+    <PortOfCall>PLNOW</PortOfCall>
+    <AgentArrival>
+    </AgentArrival>
+    <AgentDeparture>
+    </AgentDeparture>
+    <ETA>2020-12-19 10:00:00</ETA>
+    <ATA>2020-12-19 11:35:00</ATA>
+    <ETD>2021-01-20 15:00:00</ETD>
+    <ATD>
+    </ATD>
+    <LastPort>Lindo Havn</LastPort>
+    <NextPort>
+    </NextPort>
+    <VisitStatusID>2</VisitStatusID>
+    <VisitStatus>Active</VisitStatus>
+    <imo>8112665</imo>
+    <VesselName>BLUE BETA</VesselName>
+    <VesselType>Supply Vessel</VesselType>
+    <VesselFlag>Denmark (Dis)</VesselFlag>
+    <VesselStatusID>3</VesselStatusID>
+    <VesselStatus>In berth</VesselStatus>
+    <Quay>Stocznia Gda ska</Quay>
+    <AnchorageArea>
+    </AnchorageArea>
+  </Visit>
+  <Visit>
+    <CallId>589234</CallId>
+    <PortOfCall>PLNOW</PortOfCall>
+    <AgentArrival>WH Shipping sp. z o.o.</AgentArrival>
+    <AgentDeparture>
+    </AgentDeparture>
+    <ETA>2020-03-10 08:00:00</ETA>
+    <ATA>2020-03-10 11:35:00</ATA>
+    <ETD>2020-12-16 10:00:00</ETD>
+    <ATD>
+    </ATD>
+    <LastPort>Ålesund</LastPort>
+    <NextPort>
+    </NextPort>
+    <VisitStatusID>2</VisitStatusID>
+    <VisitStatus>Active</VisitStatus>
+    <imo>5289247</imo>
+    <VesselName>RAGNVALD JARL</VesselName>
+    <VesselType>Aggregates Carrier</VesselType>
+    <VesselFlag>Norway (Nis)</VesselFlag>
+    <VesselStatusID>3</VesselStatusID>
+    <VesselStatus>In berth</VesselStatus>
+    <Quay>Stocznia Gda ska</Quay>
+    <AnchorageArea>
+    </AnchorageArea>
+  </Visit>
+  <Visit>
+    <CallId>622860</CallId>
+    <PortOfCall>PLNOW</PortOfCall>
+    <AgentArrival>Old Seas Sp. z o.o.</AgentArrival>
+    <AgentDeparture>
+    </AgentDeparture>
+    <ETA>2020-11-29 14:00:00</ETA>
+    <ATA>2020-11-29 14:10:00</ATA>
+    <ETD>2020-12-10 12:00:00</ETD>
+    <ATD>
+    </ATD>
+    <LastPort>Trelleborg</LastPort>
+    <NextPort>
+    </NextPort>
+    <VisitStatusID>2</VisitStatusID>
+    <VisitStatus>Active</VisitStatus>
+    <imo>
+    </imo>
+    <VesselName>YO-YO</VesselName>
+    <VesselType>Dredger</VesselType>
+    <VesselFlag>Netherlands</VesselFlag>
+    <VesselStatusID>3</VesselStatusID>
+    <VesselStatus>In berth</VesselStatus>
+    <Quay>Kaszubskie</Quay>
+    <AnchorageArea>
+    </AnchorageArea>
+  </Visit>
+</shipInPort>
