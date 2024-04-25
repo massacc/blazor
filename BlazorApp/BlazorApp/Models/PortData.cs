@@ -1,8 +1,4 @@
-﻿using System.ComponentModel;
-using System.Net;
-using System;
-using System.Diagnostics.Contracts;
-using System.Xml.Serialization;
+﻿using System.Xml.Serialization;
 
 namespace BlazorApp.Models
 {

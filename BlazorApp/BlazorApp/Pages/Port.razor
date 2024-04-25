@@ -16,7 +16,7 @@
 }
 else
 {   
-    <h3>Statki wychodzące z portu Gdańsk Nowy Port</h3>
+    <h2>Statki wychodzące z portu Gdańsk Nowy Port</h2>
 
     <p class="fs-5">Data aktualizacji: <span class="fs-5 fw-bold">@port.Time</span></p>
     
@@ -43,11 +43,11 @@ else
 
         Stream response = await Http.GetStreamAsync("sample-data/ships.xml");
         StreamReader reader = new StreamReader(response);
-        @*var responseString = response.Content.ReadAsStringAsync().Result; 
-            StreamReader reader = new StreamReader(responseString);*@
         XmlSerializer serializer = new XmlSerializer(typeof(PortData));
-
+        
         port = (PortData)serializer.Deserialize(reader);
+       
+        
 
     }
 }
